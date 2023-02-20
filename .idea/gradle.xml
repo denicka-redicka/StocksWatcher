@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core-local-api" />
+            <option value="$PROJECT_DIR$/core-local-impl" />
+            <option value="$PROJECT_DIR$/core-network-api" />
+            <option value="$PROJECT_DIR$/core-network-impl" />
+            <option value="$PROJECT_DIR$/coreui" />
+            <option value="$PROJECT_DIR$/feature-favorites-impl" />
+            <option value="$PROJECT_DIR$/feature-search-impl" />
+            <option value="$PROJECT_DIR$/feature-stocks-api" />
+            <option value="$PROJECT_DIR$/feature-stocks-impl" />
+            <option value="$PROJECT_DIR$/tea" />
+            <option value="$PROJECT_DIR$/tea/base-aac" />
+            <option value="$PROJECT_DIR$/tea/runtime-coroutines" />
+            <option value="$PROJECT_DIR$/tea/tools" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

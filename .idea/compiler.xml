@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="base-aac" target="11" />
+      <module name="runtime-coroutines" target="1.8" />
+      <module name="tools" target="11" />
+      <module name="YandexInvestment.domain" target="1.8" />
+      <module name="YandexInvestment.domain.main" target="1.8" />
+      <module name="YandexInvestment.domain.test" target="1.8" />
+      <module name="YandexInvestment.network.main" target="1.8" />
+      <module name="YandexInvestment.network.test" target="1.8" />
+      <module name="YandexInvestment.runtime-coroutines.main" target="1.8" />
+      <module name="YandexInvestment.runtime-coroutines.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

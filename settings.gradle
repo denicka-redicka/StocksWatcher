@@ -1,0 +1,30 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "YandexInvestment"
+include ':app'
+include ':feature-stocks-impl'
+include ':feature-favorites-impl'
+include ':feature-search-impl'
+include ':coreui'
+include ':core-network-api'
+include ':tea'
+include ':tea:runtime-coroutines'
+include ':tea:tools'
+include ':tea:base-aac'
+include ':feature-stocks-api'
+include ':core'
+include ':core-network-impl'
+include ':core-local-api'
+include ':core-local-impl'
